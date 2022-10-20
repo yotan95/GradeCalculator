@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author yotan
- *
- */
-module GradeCalculator {
-}
